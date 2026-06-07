@@ -1,0 +1,1 @@
+This is a file of typeScript notes with the proper code
